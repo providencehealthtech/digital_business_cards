@@ -1,21 +1,23 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Down;Robert;;;
 FN:Robert Down
-ORG:Providence Healthtech
-ADR;TYPE=WORK:PO BOX 1392
-WINTER PARK, FL 32790
-TITLE:CEO, Founder
-TEL;TYPE=CELL:
-TEL;TYPE=WORK:+1-855-212-3669;ext=701
-TEL;TYPE=HOME:
-TEL;TYPE=MSG:
+N:Down;Robert;;;
+PHOTO:https://mc.providencehealthtech.com/files/robert_down.jpg
+GENDER:M
+ADR;LABEL="Mr. Robert Down Jr\nPO BOX 1392\nWINTER PARK, FL 32790\nUSA":;;PO BOX 1392;WINTER PARK;FL;32790;USA
+TEL;VALUE=uri;TYPE=WORK;tel:+1-855-212-3669;ext=701
+TEL;TYPE=FAX:407-720-4012
 EMAIL;TYPE=WORK:robert@providencehealthtech.com
+LANG;en
+TZ:New_York/America
+TITLE:CEO, Founder
+ROLE:Executive
+LOGO:https://mc.providencehealthtech.com/files/providence.jpg
+ORG:Providence Healthtech
+URL;TYPE=Website:https://www.providencehealthtech.com
+URL;TYPE=Schedule a Demo:https://www.providencehealthtech.com/schedule-a-demo
+URL;TYPE=Calendar:https://calendly.com/providencehealthtech/
 URL;TYPE=Digital Business Card:https://phtemr.io/rd
-URL:https://providencehealthtech.com
-URL;TYPE=Website:https://providencehealthtech.com
-URL;TYPE=Calendar:https://calendly.com/providencehealthtech
-KEY;TYPE=PGP;ENCODING=b:
-NOTE: Providence Healthtech offers electronic medical records solutions for your practice; dedicated to providing a web-based EMR solution that integrates into your workflow, allowing you to do what you do best: care for your patients.
-UID:EnBizCard-100176615
+NOTE:Providence Healthtech offers electronic medical records solutions for your practice; dedicated to providing a web-based EMR solution that integrates into your workflow, allowing you to do what you do best: care for your patients.
+CATEGORIES:EMR,SUPPORT SERVICES,HEALTHCARE INFORMATION TECHNOLOGY
 END:VCARD
